@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: 16.0-b13 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+Bundle-Name: SQLExplorer Plugin
+Bundle-SymbolicName: net.sourceforge.sqlexplorer; singleton:=true
+Bundle-Version: 3.5.1.v20100211_SR3b
+Bundle-Activator: net.sourceforge.sqlexplorer.plugin.SQLExplorerPlugin
+Bundle-Vendor: SQL Explorer Project (eclipsesql.sourceforge.net)
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.ui;bundle-version="3.2.0",org.eclipse.core
+ .runtime;bundle-version="3.2.0",org.eclipse.core.resources;bundle-ver
+ sion="3.2.0",org.eclipse.ui.ide;bundle-version="3.2.0",org.eclipse.ui
+ .workbench.texteditor;bundle-version="3.2.0",org.eclipse.jface.text;b
+ undle-version="3.2.0",org.eclipse.ui.editors;bundle-version="3.2.0"
+Eclipse-LazyStart: true
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: sqlexplorer.jar,lib/log4j.jar,lib/rowset.jar,lib/dom
+ 4j.jar,lib/fw.jar,lib/hibernate3.2.4.sp1.jar,lib/poi-3.5-FINAL-200909
+ 28.jar,lib/commons-logging.jar
+Export-Package: net.sourceforge.sqlexplorer,net.sourceforge.sqlexplore
+ r.connections,net.sourceforge.sqlexplorer.connections.actions,net.sou
+ rceforge.sqlexplorer.dataset,net.sourceforge.sqlexplorer.dbdetail,net
+ .sourceforge.sqlexplorer.dbdetail.tab,net.sourceforge.sqlexplorer.dbp
+ roduct,net.sourceforge.sqlexplorer.dbstructure,net.sourceforge.sqlexp
+ lorer.dbstructure.actions,net.sourceforge.sqlexplorer.dbstructure.nod
+ es,net.sourceforge.sqlexplorer.dialogs,net.sourceforge.sqlexplorer.hi
+ story,net.sourceforge.sqlexplorer.history.actions,net.sourceforge.sql
+ explorer.parsers,net.sourceforge.sqlexplorer.parsers.scp,net.sourcefo
+ rge.sqlexplorer.plugin,net.sourceforge.sqlexplorer.plugin.actions,net
+ .sourceforge.sqlexplorer.plugin.editors,net.sourceforge.sqlexplorer.p
+ lugin.perspectives,net.sourceforge.sqlexplorer.plugin.views,net.sourc
+ eforge.sqlexplorer.plugin.wizards,net.sourceforge.sqlexplorer.prefere
+ nces,net.sourceforge.sqlexplorer.preview,net.sourceforge.sqlexplorer.
+ sessiontree.actions,net.sourceforge.sqlexplorer.sessiontree.model.uti
+ lity,net.sourceforge.sqlexplorer.sqleditor,net.sourceforge.sqlexplore
+ r.sqleditor.actions,net.sourceforge.sqlexplorer.sqleditor.results.act
+ ions,net.sourceforge.sqlexplorer.sqlpanel,net.sourceforge.sqlexplorer
+ .sqlpanel.actions,net.sourceforge.sqlexplorer.util,net.sourceforge.sq
+ uirrel_sql.fw.codereformat,net.sourceforge.squirrel_sql.fw.completion
+ ,net.sourceforge.squirrel_sql.fw.completion.util,net.sourceforge.squi
+ rrel_sql.fw.datasetviewer,net.sourceforge.squirrel_sql.fw.datasetview
+ er.cellcomponent,net.sourceforge.squirrel_sql.fw.dialects,net.sourcef
+ orge.squirrel_sql.fw.gui,net.sourceforge.squirrel_sql.fw.gui.action,n
+ et.sourceforge.squirrel_sql.fw.gui.image,net.sourceforge.squirrel_sql
+ .fw.id,net.sourceforge.squirrel_sql.fw.persist,net.sourceforge.squirr
+ el_sql.fw.preferences,net.sourceforge.squirrel_sql.fw.resources,net.s
+ ourceforge.squirrel_sql.fw.resources.images.eclipse,net.sourceforge.s
+ quirrel_sql.fw.resources.images.gnome,net.sourceforge.squirrel_sql.fw
+ .sql,net.sourceforge.squirrel_sql.fw.sql.dbobj,net.sourceforge.squirr
+ el_sql.fw.sql.dbobj.adapter,net.sourceforge.squirrel_sql.fw.util,net.
+ sourceforge.squirrel_sql.fw.util.beanwrapper,net.sourceforge.squirrel
+ _sql.fw.util.log,net.sourceforge.squirrel_sql.fw.xml,org.eclipse.jfac
+ e.preference
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

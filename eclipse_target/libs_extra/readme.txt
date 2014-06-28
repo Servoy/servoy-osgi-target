@@ -1,0 +1,2 @@
+Download all the libraries from http://build.servoy.com:8080/latest/servoy_trunk/ who's name postfix matched the value 
+of the releaseNumber variable in the ClientVersion class of the checked-out source code and place them in this directory
