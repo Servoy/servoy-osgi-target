@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.servoy.css.core"
+      label="%featureName"
+      version="1.0.0.201003231300"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="Servoy Update Site" url="http://www.servoy.com/developer/5xx_updates"/>
+      <discovery label="Servoy Update Site" url="http://www.servoy.com/developer/5xx_updates"/>
+   </url>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="3.5.0.v20090611a-9gEeG1HFtQcmRThO4O3aR_fqSMvJR2sJ" match="greaterOrEqual"/>
+      <import feature="org.eclipse.rcp" version="3.5.0.v20090519-9SA0FwxFv6x089WEf-TWh11" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.wst.common.core"
+         download-size="0"
+         install-size="0"
+         version="1.2.0.v200908252030"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.emf"
+         download-size="0"
+         install-size="0"
+         version="1.2.1.v201008260500"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.emfworkbench.integration"
+         download-size="0"
+         install-size="0"
+         version="1.2.2.v201008242000"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.environment"
+         download-size="0"
+         install-size="0"
+         version="1.0.400.v200912181832"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.frameworks"
+         download-size="0"
+         install-size="0"
+         version="1.2.0.v201003040800"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.frameworks.ui"
+         download-size="0"
+         install-size="0"
+         version="1.2.0.v201004080500"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.modulecore"
+         download-size="0"
+         install-size="0"
+         version="1.2.3.v201008242000"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.project.facet.core"
+         download-size="0"
+         install-size="0"
+         version="1.4.102.v201008170019"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.project.facet.ui"
+         download-size="0"
+         install-size="0"
+         version="1.4.102.v201008170019"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.snippets"
+         download-size="0"
+         install-size="0"
+         version="1.2.1.v201008251905"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.500.v200911190730"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.common.uriresolver"
+         download-size="0"
+         install-size="0"
+         version="1.1.401.v201004280700"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.css.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.401.v201008161749"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.css.ui"
+         download-size="0"
+         install-size="0"
+         version="1.0.501.v201008232042"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.html.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.402.v201008311901"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.html.ui"
+         download-size="0"
+         install-size="0"
+         version="1.0.502.v201009010342"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.204.v20100908"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.sse.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.502.v201008311901"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.sse.ui"
+         download-size="0"
+         install-size="0"
+         version="1.2.2.v201008232126"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.standard.schemas"
+         download-size="0"
+         install-size="0"
+         version="1.0.300.v201004110600"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.validation"
+         download-size="0"
+         install-size="0"
+         version="1.2.200.v201005271900"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.xml.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.502.v201009010342"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.xml.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.102.v201008251905"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.xerces"
+         download-size="0"
+         install-size="0"
+         version="2.9.0.v200909240008"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jem.util"
+         download-size="0"
+         install-size="0"
+         version="2.1.2.v201008120100"
+         unpack="false"/>
+
+   <plugin
+         id="javax.xml"
+         download-size="0"
+         install-size="0"
+         version="1.3.4.v200902170245"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.xml.resolver"
+         download-size="0"
+         install-size="0"
+         version="1.2.0.v200902170519"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.xml.serializer"
+         download-size="0"
+         install-size="0"
+         version="2.7.1.v200902170519"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,41 @@
+ Directory of C:\workspace_trunk\eclipse_target\libs_extra
+
+01-10-2010  12:45    <DIR>          .
+01-10-2010  12:45    <DIR>          ..
+20-09-2010  12:55    <DIR>          features
+01-10-2010  12:45                 0 libs_extra.txt
+20-09-2010  12:57    <DIR>          plugins
+17-08-2010  18:12               237 readme.txt
+               2 File(s)            237 bytes
+
+
+ Directory of C:\workspace_trunk\eclipse_target\libs_extra\features
+
+20-09-2010  12:55    <DIR>          .
+20-09-2010  12:55    <DIR>          ..
+20-09-2010  12:55    <DIR>          com.collabnet.subversion.merge.feature_2.2.0
+20-09-2010  12:55    <DIR>          org.tigris.subversion.clientadapter.feature_1.6.12
+20-09-2010  12:55    <DIR>          org.tigris.subversion.clientadapter.javahl.feature_1.6.12
+20-09-2010  12:55    <DIR>          org.tigris.subversion.clientadapter.svnkit.feature_1.6.12
+20-09-2010  12:55    <DIR>          org.tigris.subversion.subclipse.graph.feature_1.0.8
+20-09-2010  12:55    <DIR>          org.tigris.subversion.subclipse_1.6.13
+20-09-2010  12:55    <DIR>          org.tmatesoft.svnkit_1.3.3.6648
+               0 File(s)              0 bytes
+
+
+ Directory of C:\workspace_trunk\eclipse_target\libs_extra\plugins
+
+20-09-2010  12:57    <DIR>          .
+20-09-2010  12:57    <DIR>          ..
+25-07-2010  15:24           448.916 com.collabnet.subversion.merge_2.2.0.jar
+20-09-2010  12:57    <DIR>          com.collabnet.webservices.common_1.4.0.200711091233
+20-09-2010  12:57    <DIR>          org.tigris.subversion.clientadapter.javahl.win32_1.6.12
+05-07-2010  10:50           163.121 org.tigris.subversion.clientadapter.javahl_1.6.12.jar
+05-07-2010  10:50            83.067 org.tigris.subversion.clientadapter.svnkit_1.6.12.jar
+05-07-2010  10:50            82.086 org.tigris.subversion.clientadapter_1.6.12.jar
+29-07-2010  17:59           299.318 org.tigris.subversion.subclipse.core_1.6.13.jar
+05-07-2010  10:50           123.566 org.tigris.subversion.subclipse.graph_1.0.8.jar
+29-07-2010  17:59         1.912.814 org.tigris.subversion.subclipse.ui_1.6.13.jar
+05-07-2010  10:51         4.245.473 org.tmatesoft.svnkit_1.3.3.6648.jar
+               8 File(s)      7.358.361 bytes
+
