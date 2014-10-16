@@ -24,8 +24,8 @@ http://www.eclipse.org/legal/epl-v10.html
    </license>
 
    <url>
-      <update label="Servoy Update Site" url="http://www.servoy.com/developer/5xx_updates"/>
-      <discovery label="Servoy Update Site" url="http://www.servoy.com/developer/5xx_updates"/>
+      <update label="Servoy Update Site" url="http://download.servoy.com/developer/6xx_updates"/>
+      <discovery label="Servoy Update Site" url="http://download.servoy.com/developer/6xx_updates"/>
    </url>
 
    <requires>

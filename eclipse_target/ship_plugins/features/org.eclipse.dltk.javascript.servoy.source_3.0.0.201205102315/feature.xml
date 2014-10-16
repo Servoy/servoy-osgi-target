@@ -14,8 +14,8 @@ http://www.eclipse.org/legal/epl-v10.html
 		%license
 	</license>
 	<url>
-		<update url="http://www.servoy.com/developer/5xx_updates" label="Servoy Update Site"/>
-		<discovery url="http://www.servoy.com/developer/5xx_updates" label="Servoy Update Site"/>
+		<update url="http://download.servoy.com/developer/6xx_updates" label="Servoy Update Site"/>
+		<discovery url="http://download.servoy.com/developer/6xx_updates" label="Servoy Update Site"/>
 	</url>
 	<plugin id="org.eclipse.dltk.javascript.core.source" version="3.0.0.201205102315"     unpack="false"/>
 	<plugin id="org.eclipse.dltk.javascript.debug.source" version="3.0.0.201205102315"     unpack="false"/>
