@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.eclipse.dltk.core.servoy.source" version="5.1.1.201412181533" label="%featureName"   provider-name="%providerName" image="eclipse_update_120.jpg"    >
+	<description url="http://www.eclipse.org/dltk">
+		%description
+	</description>
+	<copyright url="http://www.eclipse.org/legal/epl-v10.html">
+		Copyright (c) 2005, 2007 IBM Corporation and others.
+All rights reserved.   This program and the accompanying materials
+are made available under the terms of the Eclipse Public License v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+	</copyright>
+	<license url="%licenseURL">
+      %license
+  	</license>
+	<url>
+		<update url="http://www.servoy.com/developer/5xx_updates" label="Servoy Update Site"/>
+		<discovery url="http://www.servoy.com/developer/5xx_updates" label="Servoy Update Site"/>
+	</url>
+	<plugin id="org.eclipse.dltk.core.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.ui.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.debug.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.debug.ui.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.launching.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.console.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.console.ui.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.validators.core.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.formatter.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.core.manipulation.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.logconsole.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.logconsole.ui.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.annotations.source" version="5.1.1.201412181533"     unpack="false"/>
+	<plugin id="org.eclipse.dltk.testing.source" version="5.1.1.201412181533"     unpack="false"/>
+</feature>
