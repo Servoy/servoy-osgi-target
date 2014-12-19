@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="servoy_target" sequenceNumber="6">
+<?pde version="3.6"?><target name="servoy_target" sequenceNumber="6">
 <locations>
 <location path="${project_loc:eclipse_target}/compile_target/install" type="Directory"/>
-<location path="${project_loc:eclipse_target}//compile_target/install/deltapack" type="Directory"/>
+<location path="${project_loc:eclipse_target}/compile_target/install/deltapack" type="Directory"/>
 <location path="${project_loc:eclipse_target}/compile_target/optional" type="Directory"/>
 <location path="${project_loc:eclipse_target}/libs_extra" type="Directory"/>
 <location path="${project_loc:eclipse_target}/ship_plugins" type="Directory"/>
