@@ -3,6 +3,7 @@
 com.ibm.icu,54.1.1.v201501272100,plugins/com.ibm.icu_54.1.1.v201501272100.jar,4,false
 com.jcraft.jsch,0.1.51.v201410302000,plugins/com.jcraft.jsch_0.1.51.v201410302000.jar,4,false
 com.sun.el,2.2.0.v201303151357,plugins/com.sun.el_2.2.0.v201303151357.jar,4,false
+com.sun.mail.javax.mail,1.5.5,plugins/com.sun.mail.javax.mail_1.5.5.jar,4,false
 javax.annotation,1.2.0.v201401042248,plugins/javax.annotation_1.2.0.v201401042248.jar,4,false
 javax.el,2.2.0.v201303151357,plugins/javax.el_2.2.0.v201303151357.jar,4,false
 javax.inject,1.0.0.v20091030,plugins/javax.inject_1.0.0.v20091030.jar,4,false
@@ -14,6 +15,7 @@ org.apache.batik.css,1.7.0.v201011041433,plugins/org.apache.batik.css_1.7.0.v201
 org.apache.batik.util,1.7.0.v201011041433,plugins/org.apache.batik.util_1.7.0.v201011041433.jar,4,false
 org.apache.batik.util.gui,1.7.0.v200903091627,plugins/org.apache.batik.util.gui_1.7.0.v200903091627.jar,4,false
 org.apache.commons.codec,1.6.0.v201305230611,plugins/org.apache.commons.codec_1.6.0.v201305230611.jar,4,false
+org.apache.commons.collections,3.2.1,plugins/org.apache.commons.collections_3.2.1.jar,4,false
 org.apache.commons.jxpath,1.3.0.v200911051830,plugins/org.apache.commons.jxpath_1.3.0.v200911051830.jar,4,false
 org.apache.commons.logging,1.1.1.v201101211721,plugins/org.apache.commons.logging_1.1.1.v201101211721.jar,4,false
 org.apache.felix.gogo.command,0.10.0.v201209301215,plugins/org.apache.felix.gogo.command_0.10.0.v201209301215.jar,4,false
