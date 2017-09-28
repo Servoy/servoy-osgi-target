@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="eclipse4.7.1" sequenceNumber="25">
+<?pde version="3.8"?><target name="eclipse4.7.1" sequenceNumber="30">
 <locations>
 <location path="${project_loc:eclipse_target}/ship_plugins" type="Directory"/>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.sdk.ide" version="4.7.1.M20170901-1220"/>
-<repository location="http://download.eclipse.org/eclipse/updates/4.7-M-builds/M-4.7.1RC3-201709011220/"/>
+<unit id="org.eclipse.platform.sdk" version="4.7.1.M20170906-1700"/>
+<repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.1-201709061700/"/>
 </location>
 </locations>
 </target>
