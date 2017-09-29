@@ -15,7 +15,7 @@ Require-Bundle: org.eclipse.ui;bundle-version="3.2.0",org.eclipse.core
  undle-version="3.2.0",org.eclipse.ui.editors;bundle-version="3.2.0"
 Eclipse-LazyStart: true
 Bundle-ActivationPolicy: lazy
-Bundle-ClassPath: sqlexplorer.jar,lib/log4j.jar,lib/rowset.jar,lib/dom
+Bundle-ClassPath: sqlexplorer.jar,lib/rowset.jar,lib/dom
  4j.jar,lib/fw.jar,lib/hibernate3.2.4.sp1.jar,lib/poi-3.5-FINAL-200909
  28.jar,lib/commons-logging.jar
 Export-Package: net.sourceforge.sqlexplorer,net.sourceforge.sqlexplore
