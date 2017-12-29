@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="eclipse4.7.1 + eGit" sequenceNumber="38">
+<?pde version="3.8"?><target name="eclipse4.7.2 + eGit" sequenceNumber="38">
 <locations>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.sdk.ide" version="4.7.1.M20170906-1700"/>
-<repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.1-201709061700/"/>
+<unit id="org.eclipse.sdk.ide" version="4.7.2.M20171130-0510"/>
+<repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.2-201711300510/"/>
 </location>
 <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
 <location path="${project_loc:eclipse_target}/ship_plugins" type="Directory"/>
