@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="eclipse4.7.x" sequenceNumber="54">
+    <locations>
+        <location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
+        <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
+        <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+            <unit id="org.eclipse.sdk.ide" version="4.7.3.M20180301-0715"/>
+            <repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.3-201803010715/"/>
+        </location>
+    </locations>
+</target>
