@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="eclipse4.8.x" sequenceNumber="60">
+    <locations>
+        <location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
+        <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
+        <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+            <unit id="org.eclipse.sdk.ide" version="4.8.0.I20180308-0630"/>
+            <repository location="http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8M6-201803080630/"/>
+        </location>
+    </locations>
+</target>
