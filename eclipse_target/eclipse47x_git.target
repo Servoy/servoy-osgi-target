@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?><target name="eclipse4.7.x + eGit" sequenceNumber="38">
 <locations>
-        <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-            <unit id="org.eclipse.sdk.ide" version="4.7.3.M20180301-0715"/>
-            <repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.3-201803010715/"/>
-        </location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.sdk.ide" version="4.7.3.M20180301-0715"/>
+<repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.3-201803010715/"/>
+</location>
 <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
 <location path="${project_loc:eclipse_target}/ship_plugins" type="Directory"/>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.egit.feature.group" version="4.8.0.201612291547"/>
-<unit id="org.eclipse.egit.gitflow.feature.feature.group" version="4.8.0.201612291547"/>
-<unit id="org.eclipse.egit.ui.smartimport" version="4.8.0.201612291547"/>
-<unit id="org.eclipse.jgit.feature.group" version="4.8.0.201612291546"/>
-<unit id="org.eclipse.jgit.http.apache.feature.group" version="4.8.0.201612291546"/>
-<unit id="org.eclipse.jgit.lfs.feature.group" version="4.8.0.201612291546"/>
-<unit id="org.eclipse.jgit.pgm.feature.group" version="4.8.0.201612291546"/>
-<unit id="org.eclipse.jgit.pgm.source.feature.group" version="4.8.0.201612291546"/>
+<unit id="org.eclipse.egit.feature.group" version="4.11.0.201803021413"/>
+<unit id="org.eclipse.egit.gitflow.feature.feature.group" version="4.11.0.201803021413"/>
+<unit id="org.eclipse.egit.ui.smartimport" version="4.11.0.201803021413"/>
+<unit id="org.eclipse.jgit.feature.group" version="4.11.0.201803021358"/>
+<unit id="org.eclipse.jgit.http.apache.feature.group" version="4.11.0.201803021358"/>
+<unit id="org.eclipse.jgit.lfs.feature.group" version="4.11.0.201803021358"/>
+<unit id="org.eclipse.jgit.pgm.feature.group" version="4.11.0.201803021358"/>
+<unit id="org.eclipse.jgit.pgm.source.feature.group" version="4.11.0.201803021358"/>
 <repository location="http://download.servoy.com/egit/"/>
 </location>
 </locations>
