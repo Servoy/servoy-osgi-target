@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="eclipse4.8.x" sequenceNumber="76">
-<locations>
-<location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
-<location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
-<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="org.eclipse.pde.source.feature.group" version="3.13.100.v20180611-0826"/>
-<unit id="org.eclipse.platform.ide" version="4.8.0.I20180611-0500"/>
-<repository location="http://download.eclipse.org/eclipse/updates/4.8"/>
-</location>
-</locations>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?pde version="3.8"?><target name="eclipse4.8.x" sequenceNumber="60">
+    <locations>
+        <location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
+        <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="http://download.eclipse.org/eclipse/updates/4.8"/>
+		    <unit id="org.eclipse.sdk.ide" version="4.8.0.I20180611-0500"/>
+	    </location>
+    </locations>
 </target>
