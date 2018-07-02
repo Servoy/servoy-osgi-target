@@ -2,9 +2,9 @@
     <locations>
         <location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
         <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
-        <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-            <unit id="org.eclipse.sdk.ide" version="4.8.0.I20180524-0900"/>
-            <repository location="http://download.eclipse.org/eclipse/updates/4.8milestones/S-4.8RC2-201805240900/"/>
-        </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="http://download.eclipse.org/eclipse/updates/4.8"/>
+		    <unit id="org.eclipse.sdk.ide" version="4.8.0.I20180611-0500"/>
+	    </location>
     </locations>
 </target>
