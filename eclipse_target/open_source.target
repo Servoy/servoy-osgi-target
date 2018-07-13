@@ -5,8 +5,8 @@
         <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
         <location path="${project_loc:/eclipse_target}/libs_extra" type="Directory"/>
         <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-            <unit id="org.eclipse.sdk.ide" version="4.7.3.M20180301-0715"/>
-            <repository location="http://download.eclipse.org/eclipse/updates/4.7/R-4.7.3-201803010715/"/>
-        </location>
+		    <repository location="http://download.eclipse.org/eclipse/updates/4.8"/>
+		    <unit id="org.eclipse.sdk.ide" version="4.8.0.I20180611-0500"/>
+	    </location>
     </locations>
 </target>
