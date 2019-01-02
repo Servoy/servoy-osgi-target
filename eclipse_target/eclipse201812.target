@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?pde version="3.8"?><target name="eclipse 2018-12" sequenceNumber="60">
+    <locations>
+        <location path="${project_loc:/eclipse_target}/ship_plugins" type="Directory"/>
+        <location path="${project_loc:/eclipse_target}/dltk" type="Directory"/>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="http://download.eclipse.org/eclipse/updates/4.10/"/>
+		    <unit id="org.eclipse.sdk.ide" version="4.10.0.I20181206-0815"/>
+	    </location>
+    </locations>
+</target>
